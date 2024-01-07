@@ -16,6 +16,7 @@ class ViewController: UIViewController {
 
     override func viewWillAppear(_ animated: Bool) {
         //Adding a new function to viewWillAppear
+        //Adding another function to viewWillAppear
     }
 
 }
